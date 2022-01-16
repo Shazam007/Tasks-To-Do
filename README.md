@@ -2,8 +2,10 @@
 
 A cloud-based todo management application
 
-## Live Preview
+## Live Preview 
 [Tasks ToDo](https://tasks-todo-mern.herokuapp.com)
+\
+*It will take a few seconds for the first load*
 
 ### Tech Stack
 - React with Material UI
