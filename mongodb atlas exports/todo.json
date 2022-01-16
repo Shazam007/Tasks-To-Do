@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "61e43e40d7ae8c4059494d0c"
+  },
+  "todoText": "Go to foodcity and grab ice cream tub - 4L",
+  "status": "todo",
+  "userid": "61e43dced7ae8c4059494d08",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e43e98d7ae8c4059494d0f"
+  },
+  "todoText": "Cricket practice - 21st evening",
+  "status": "todo",
+  "userid": "61e43dced7ae8c4059494d08",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e43eb2d7ae8c4059494d13"
+  },
+  "todoText": "Order new 2L sanitizer bottle ",
+  "status": "done",
+  "userid": "61e43dced7ae8c4059494d08",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e43f55d7ae8c4059494d18"
+  },
+  "todoText": "Fix the bug in mongo container",
+  "status": "inprogress",
+  "userid": "61e43dced7ae8c4059494d08",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e43f9fd7ae8c4059494d21"
+  },
+  "todoText": "walk the dog",
+  "status": "inprogress",
+  "userid": "61e43f6fd7ae8c4059494d1d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e43faed7ae8c4059494d24"
+  },
+  "todoText": "Repair glass lenses",
+  "status": "todo",
+  "userid": "61e43f6fd7ae8c4059494d1d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e43fbed7ae8c4059494d28"
+  },
+  "todoText": "doctor appointment - 15 jan",
+  "status": "done",
+  "userid": "61e43f6fd7ae8c4059494d1d",
+  "__v": 0
+}]
