@@ -4,8 +4,6 @@ A cloud-based todo management application
 
 ## Live Preview 
 [Tasks ToDo](http://178.128.85.236)
-\
-*It will take a few seconds for the first load*
 
 ### Tech Stack
 - React with Material UI
