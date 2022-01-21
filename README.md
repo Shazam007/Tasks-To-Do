@@ -3,7 +3,7 @@
 A cloud-based todo management application
 
 ## Live Preview 
-[Tasks ToDo](http://178.128.85.236)
+[Tasks ToDo](https://tasks-todo-mern.herokuapp.com)
 
 ### Tech Stack
 - React with Material UI
